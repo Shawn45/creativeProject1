@@ -1,0 +1,85 @@
+/* Image Grid * /
+ * /* Image Grid */
+.image img {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+.purchase-image {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #E5E5E5;
+  color: #8D857A !important;
+  text-align: center;
+  max-height: 5%
+}
+p {
+ color: #04383F;
+}
+.buttens {
+  color: #04383F;
+  margin-bottom: 30px;
+  padding: 10px;
+  padding-bottom: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+
+h1 {
+  font-size: 40;
+  color: #04383F;
+  padding: 50px;
+  padding-bottom: 75px;
+  font-family: 'Bebas Neue', cursive;
+  display: flex;
+  justify-content: center;
+}
+h2 {
+  font-size: 25;
+  color: #04383F;
+  padding-top: 50px;
+  font-family: 'Bebas Neue', cursive;
+  display: flex;
+  justify-content: center;
+}
+h5 {
+  font-size: large;
+  font-family: 'Bebas Neue', cursive;
+}
+div {
+  padding: 30px;
+}
+.card-deck {
+  display: flex;
+  max-width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card {
+ display: flex;
+ max-width: 50%;
+ height: auto;
+ margin-left: auto;
+ margin-right: auto;
+}
+.card-body {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.price{
+  font-weight: bold;
+}
+.nav {
+  color: #04383F;
+}
+.nav-link {
+  color: #04383F;
+}
